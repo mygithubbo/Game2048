@@ -1,0 +1,18 @@
+# view res/layout/main.xml #generated:95
+-keep class com.chijia.game2048.AnimLayer { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.chijia.game2048.GameOverActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.chijia.game2048.GameSuccessActivity { <init>(...); }
+
+# view res/layout/main.xml #generated:89
+-keep class com.chijia.game2048.GameView { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.chijia.game2048.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.chijia.game2048.SplashActivity { <init>(...); }
+
